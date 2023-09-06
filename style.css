@@ -1,0 +1,402 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+header {
+    background-image: linear-gradient(to top, rgba(17, 64, 255, 0.6),rgba(35, 79, 255, 0.6)), url(images/banner-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#banner .vh {
+    height: 870px;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.active {
+    color: black !important;
+}
+
+.banner-img img {
+    width: 80%;
+}
+
+.banner-input {
+    background-color: white;
+    padding: 30px 15px;
+    border-radius: 10px;
+}
+
+.first-img img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+#section-4 {
+    background-color: rgba(240, 240, 240, 0.808);
+}
+
+.box-icon-lorem {
+    padding-top: 20px;
+    padding: 0 160px;
+}
+
+.box-icon {
+    width: 80px;
+    height: 80px;
+    margin: 0 auto;
+    border-radius: 50%;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.box-icon i {
+    font-size: 40px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+#section-5 {
+    height: 500px;
+    background-image: linear-gradient(to top, rgba(17, 64, 255, 0.6),rgba(35, 79, 255, 0.6)), url(images/video-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box-img-ustidagi-yozuv {
+    padding-top: 180px;
+}
+
+.but-play {
+    width: 80px;
+    height: 80px;
+    background-color: white;
+    border: none;
+    border-radius: 50%;
+}
+.but-play i {
+    margin-left: 8px;
+    margin-top: 4px;
+    font-size: 45px;
+}
+
+.box-icon-lorem-2 {
+    padding-top: 60px;
+    padding: 50px 250px;
+}
+
+.box-4talik-lorem {
+    margin-top: 100px;
+}
+
+.box-col-img img {
+    transform: scale(0.7);
+}
+
+.box-4talik-lorem {
+    display: flex;
+    flex-wrap: wrap;
+}
+.box-lorem-4talik {
+    width: 250px;
+    margin: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+
+.box-oq-soat-img img {
+    transform: scale(0.7);
+}
+
+.box-icon-vs-lorem {
+    display: flex;
+}
+
+.box-icon-vs-lorem {
+    margin-top: 60px;
+    margin-bottom: 50px;
+    /* border: 1px solid green; */
+}
+
+.box-icon-cha {
+    width: 130px;
+    height: 80px;
+    margin-right: 5px;
+    border-radius: 50%;
+    border-style: dashed;
+    border: dashed, 2px solid rgb(0, 60, 255);
+}
+
+.box-icon-cha i {
+    margin-left: 33px;
+    margin-top: 30px;
+    transform: scale(3);
+}
+
+#section-8 {
+    height: 550px;
+    background-image: linear-gradient(to top, rgba(17, 64, 255, 0.6),rgba(35, 79, 255, 0.6)), url(images/newsletter-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.box-lorem-vs-input {
+    width: 1100px;
+    height: 150px;
+    margin: 0 auto;
+    margin-top: 200px;
+    display: flex;
+    border-radius: 15px;
+    background-color: white;
+}
+
+.box-left-lorem {
+    margin-top: 30px;
+}
+
+.input-bot {
+    width: 400px;
+    height: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+    border-radius: 8px;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.input-button {
+    position: relative;
+    left: 400px;
+    bottom: 50px;
+    width: 120px;
+    height: 48px;
+    border: none;
+    border-radius: 30px;
+    background-color: rgb(78, 78, 255);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    color: white;
+    cursor: pointer;
+}
+
+.box-soat-img {
+    background-color: rgb(245, 245, 245);
+    height: 550px;
+    margin-bottom: 30px;
+}
+
+.btn-soat-tagi {
+    width: 150px;
+    height: 40px;
+    background-color: rgb(23, 23, 255);
+    color: white;
+    border: none;
+    border-radius: 30px;
+
+}
+
+#section-10 {
+    height: 730px;
+    background-image: url(images/banner-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.box-kok-ustidagi-yozuvlar {
+    margin-top: 100px;
+    padding: 0 200px;
+}
+
+.box-img-odam img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.box-kok-ichidagi-lorem {
+    background-color: #2572F2;
+    border-radius: 20px;
+    color: white;
+    padding: 15px;
+}
+
+.box-right-oq-soat img {
+    transform: scale(.7);
+    margin-left: 100px;
+}
+
+.selectlar {
+    width: 100%;
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+#section-12 {
+    height: 88  0px;
+    background-image: url(images/map.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.box-icon-vs-number {
+    margin-top: 110px;
+}
+
+.pochta-email-number-box {
+    /* border: 1px solid green; */
+    margin-bottom: 50px;
+    display: flex;
+}
+
+.icon-4burchak {
+    width: 80px;
+    height: 80px;
+    border: 4px solid rgb(40, 40, 255);
+    border-radius: 5px;
+}
+.icon-4burchak i {
+    transform: scale(2.5);
+    margin-left: 28px;
+    margin-top: 30px;
+}
+
+.p-number {
+    font-size: 25px;
+    color: #888;
+    margin-top: 10px;
+    margin-left: 20px;
+    line-height: 20px;
+}
+
+.textarea-message {
+    width: 100%;
+}
+
+#section-13 {
+    
+    height: 300px;
+    background-color: rgb(34, 34, 34);
+}
+
+.box-oxirgi {
+    /* border: 1px solid red; */
+    padding-top: 50px;
+}
+
+.box-icon-4talik-oxirgi {
+    /* border: 1px solid yellow; */
+    margin: 0 auto;
+    width: 450px;
+    display: flex;
+}
+
+.oxirgi-icon {
+    width: 80px;
+    height: 80px;
+    margin-left: 30px;
+    background-color: #0d62ec;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.oxirgi-icon i {
+    font-size: 40px;
+    margin-top: 18px;
+}
+
+.eng-oxirgi-p {
+    margin-top: 30px;
+    color: white;
+}
+.oxirgi-span {
+    font-size: 19px;
+    color: blue;
+    cursor: pointer;
+}
+
+
+@media screen and (max-width:992px) {
+    #banner .vh {
+        height: 970px;
+    }
+
+    .box-icon-lorem {
+        padding-top: 20px;
+        padding: 0 0;
+    }
+
+    .box-icon-lorem-2 {
+        padding-top: 60px;
+        padding: 40px 0;
+    }
+    
+    .box-4talik-lorem {
+        margin-left: 100px;
+    }
+
+    .box-icon-cha i {
+        margin-left: 25px;
+    }
+
+    .box-lorem-vs-input {
+        text-align: center;
+        width: 1100px;
+        height: 300px;
+        margin: 0 auto;
+        margin-top: 50px;
+        display: flex;
+        flex-wrap: wrap;
+        border-radius: 15px;
+        background-color: white;
+    }
+
+    .box-left-lorem {
+        padding-top: 30px;
+        margin: 0 auto;
+    }
+
+    .input-button {
+        position: relative;
+        left: 0;
+        bottom: -20px;
+        width: 120px;
+        height: 48px;
+        border: none;
+        border-radius: 30px;
+        background-color: rgb(78, 78, 255);
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+        color: white;
+        cursor: pointer;
+    }
+
+    .box-kok-ustidagi-yozuvlar {
+        margin-top: 100px;
+        padding: 0 0;
+    }
+
+    .box-lorem-vs-input {
+        width: 400px;
+        height: 150px;
+        margin: 0 auto;
+        margin-top: 200px;
+        display: flex;
+        border-radius: 15px;
+        background-color: white;
+    }
+
+    .input-bot {
+        width: 400px;
+        height: 50px;
+        margin-left: -10px;
+        margin-top: 50px;
+        background-color: white;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    }
+}
